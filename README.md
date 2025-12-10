@@ -5,7 +5,6 @@ This package contains:
 - Sample images for smoke testing
 - Draft paper (markdown)
 - Case study
-- Video script
 - Architecture placeholder image
 
 ## Quickstart
